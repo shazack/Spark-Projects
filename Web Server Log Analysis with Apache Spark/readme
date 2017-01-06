@@ -1,0 +1,5 @@
+Data set: NASA Kennedy Space Center web server in Florida. 
+The full data set is freely available at http://ita.ee.lbl.gov/html/contrib/NASA-HTTP.html, and it contains all HTTP requests for two months. 
+
+The project involves analysis of the web server log and compute statistics such as Number of Unique Hosts,Average Number of Daily Requests per Host,
+Counting 404 Response Codes,  Top Twenty 404 Response Code URL paths, 404 Errors per Day, per Hour etc. This was done using PySpark.
